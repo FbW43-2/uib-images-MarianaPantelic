@@ -1,0 +1,13 @@
+img {
+  border: 10px;
+  border-color: orange;
+  border-style: solid;
+  margin-left: 50px;
+}
+body {
+  background-color: rgba(0, 0, 0, 0.727);
+}
+h1 {
+  color: orange;
+  margin: 50px 0px 50px 50px;
+}
