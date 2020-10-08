@@ -10,3 +10,6 @@ Exercise:
 8. Add another image to your html and apply a border of 10px, color of your choice and make it round
 9. When you hover on such image, the img should become squared/rectangular again
 10. Read about object-fit https://www.w3schools.com/css/css3_object-fit.asp and experiment with its different values
+11. Create 2 divs that take the full page width
+12. In each div place an img and have it float right in the first div and left in the second one
+13. Have each img point to a page in wikipedia (link)
