@@ -1,13 +1,37 @@
 img {
   border: 10px;
-  border-color: orange;
+  border-color: darkgrey;
   border-style: solid;
   margin-left: 50px;
 }
 body {
   background-color: rgba(0, 0, 0, 0.727);
 }
-h1 {
-  color: orange;
+h1,
+h2 {
   margin: 50px 0px 50px 50px;
+}
+.fill {
+  object-fit: fill;
+}
+.contain {
+  object-fit: contain;
+}
+.cover {
+  object-fit: cover;
+}
+.scale-down {
+  object-fit: scale-down;
+}
+.none {
+  object-fit: none;
+}
+.circle {
+  border: solid 10px darkgray;
+  border-radius: 50%;
+  object-fit: scale-down;
+  margin-top: 50px;
+}
+.circle:hover {
+  border-radius: 0%;
 }

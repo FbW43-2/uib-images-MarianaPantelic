@@ -7,3 +7,6 @@ Exercise:
 5. With CSS, try to apply a border to the two images
 6. OPTIONAL: Add a third img element that links to a picture that does not exist, make sure you write a description in the alt attribute. Observe the importance of having a alt attribute
 7. OPTIONAL: Experiment with giving different "width" to your pictures, read about the CSS "object-fit" rule and try to apply it to your images.
+8. Add another image to your html and apply a border of 10px, color of your choice and make it round
+9. When you hover on such image, the img should become squared/rectangular again
+10. Read about object-fit https://www.w3schools.com/css/css3_object-fit.asp and experiment with its different values
