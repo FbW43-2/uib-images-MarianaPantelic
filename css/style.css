@@ -61,10 +61,11 @@ main::after {
   float: right;
 }
 .div-2 {
-  float: left;
+  float: left;g
 }
 p {
   font-size: 25px;
+  margin: 0px 50px 0px 50px;
 }
 .margin {
   margin: 0px 50px 0px 50px;
